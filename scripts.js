@@ -24,7 +24,7 @@ const commands = {
         { command: "rod", description: "Мут на 1 день.", rank: 2 },
         { command: "18p", description: "Мут на 5 часов.", rank: 2 },
         { command: "prik", description: "Мут на 1 минуту.", rank: 1 },
-        { command: "unm", description: "Снимает мут с пользователя.", rank: 1 },
+        { command: "unm", description: "Снимает мут с пользователя.", rank: 2 },
     ],
     adminCommands: [
         { command: "/add", description: "Добавляет нового пользователя с рангом.", rank: 3 },
